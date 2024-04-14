@@ -1,0 +1,14 @@
+C:\Users\marek\RiderProjects\ToDoReader\ToDoReader\bin\Debug\net8.0\ToDoReader.exe
+C:\Users\marek\RiderProjects\ToDoReader\ToDoReader\bin\Debug\net8.0\ToDoReader.deps.json
+C:\Users\marek\RiderProjects\ToDoReader\ToDoReader\bin\Debug\net8.0\ToDoReader.runtimeconfig.json
+C:\Users\marek\RiderProjects\ToDoReader\ToDoReader\bin\Debug\net8.0\ToDoReader.dll
+C:\Users\marek\RiderProjects\ToDoReader\ToDoReader\bin\Debug\net8.0\ToDoReader.pdb
+C:\Users\marek\RiderProjects\ToDoReader\ToDoReader\obj\Debug\net8.0\ToDoReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\RiderProjects\ToDoReader\ToDoReader\obj\Debug\net8.0\ToDoReader.AssemblyInfoInputs.cache
+C:\Users\marek\RiderProjects\ToDoReader\ToDoReader\obj\Debug\net8.0\ToDoReader.AssemblyInfo.cs
+C:\Users\marek\RiderProjects\ToDoReader\ToDoReader\obj\Debug\net8.0\ToDoReader.csproj.CoreCompileInputs.cache
+C:\Users\marek\RiderProjects\ToDoReader\ToDoReader\obj\Debug\net8.0\ToDoReader.dll
+C:\Users\marek\RiderProjects\ToDoReader\ToDoReader\obj\Debug\net8.0\refint\ToDoReader.dll
+C:\Users\marek\RiderProjects\ToDoReader\ToDoReader\obj\Debug\net8.0\ToDoReader.pdb
+C:\Users\marek\RiderProjects\ToDoReader\ToDoReader\obj\Debug\net8.0\ToDoReader.genruntimeconfig.cache
+C:\Users\marek\RiderProjects\ToDoReader\ToDoReader\obj\Debug\net8.0\ref\ToDoReader.dll
